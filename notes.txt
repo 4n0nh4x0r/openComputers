@@ -1,0 +1,31 @@
+I need to make the cardReader script better, by using multiple doorcontrollers, and magcardreaders
+
+to do this, i ll need different folders, each with instructions in JSON form
+the id of the reader, and the id of the controller
+and a set of codes that work on said reader
+
+
+
+ab7f5cd3-db83-4232-93f3-8187ede44853  Card Reader next to the computer
+
+
+
+83d424fd-533a-498c-94b0-57f0d91f7189  Card Reader next to door 1
+4450c25a-347b-4400-a7ec-848811b8d6ca  Door Controller 1
+entry codes:
+	- 18873940
+	- 11225543
+
+ace408be-05d5-45c6-b3cf-5d8c9a2a3f24  Reader 2
+91b601d3-19eb-4762-9073-8f2a208accc2  Door Controller 2 
+entry codes:
+	- 18873940
+	- 15422687
+	- 11225543
+
+3bbdd537-f117-4d4a-bc48-6adc766fb243	Reader 3
+bce90c10-c8ba-4151-97a1-056d479caed1	Controller 3
+entry codes:
+	- 18873940
+	- 15422687
+	- 11225543
