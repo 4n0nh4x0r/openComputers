@@ -1,7 +1,7 @@
 -- Mag Keycard Door Controller Program
 
 event = require("event")
-
+component = require("component")
 
 function inTable(tbl, item)
     for key, value in pairs(tbl) do
