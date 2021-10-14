@@ -13,7 +13,7 @@ example :
 accessArray = {
   ["doorController"] = "91b601d3-19eb-4762-9073-8f2a208accc2",    -- This is the address of the controller that the MagCard reader is supposed to work with --
   ["allowed"] = {
-	"18873940",                                                   -- Here are the codes of the cards that can use the card reader --
+    "18873940",                                                   -- Here are the codes of the cards that can use the card reader --
     "11225543"                                                    -- This can be anything, numbers, characters, special characters, it doesnt matter --
   }
 }
