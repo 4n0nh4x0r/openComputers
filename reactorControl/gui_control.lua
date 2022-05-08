@@ -109,7 +109,7 @@ t3 = thread.create(cleanup)
 
 
 
-local test = {"a","b","c"}
-for i=0,table.getn(test) do
-    print(test[i])
-end
+-- local test = {"a","b","c"}
+-- for i=0,table.getn(test) do
+--     print(test[i])
+-- end
